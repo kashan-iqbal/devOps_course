@@ -21,7 +21,7 @@ export default function Home() {
             .
           </li>
           <li className="tracking-[-.01em]">
-            kashan iqbal is the best developer in the world
+            <h1>node js developer</h1>
           </li>
         </ol>
 
